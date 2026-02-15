@@ -10,7 +10,7 @@ Shell inversa basica con persistencia
 
 - Clonar    ➡  ``` git clone  https://github.com/Valengamerr/INDICIA-ReverceShell---Basico.git ```
 - Cd        ➡   ``` cd INDICIA-ReverceShell---Basico ```
-- Ejecutar  ➡  Abri 2 terminales en una ejecuta el archivo "Indicia.py" y despues en la otra "payload.py"
+- Ejecutar  ➡  ``` Abri 2 terminales en una ejecuta el archivo "Indicia.py" y despues en la otra "payload.py" ```
 
 > [!CAUTION]
 > - Primero hay que ejecutar  "Indicia.py"
