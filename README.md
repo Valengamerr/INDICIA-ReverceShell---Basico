@@ -15,3 +15,7 @@ Shell inversa basica con persistencia
 > [!CAUTION]
 > - Primero hay que ejecutar  "Indicia.py"
 > - El INDICIA.py se queda en escucha para el payload
+
+## MUESTRA
+
+<img width="1366" height="768" alt="Indicia" src="https://github.com/user-attachments/assets/13b8556f-b9d3-42ca-8c1a-b601e48bb6b1" />
