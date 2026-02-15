@@ -11,7 +11,7 @@ import platform
 IP_CASA = "127.0.0.1" # PONE TU IP ACA (si lo queres probar en localhost dejalo asi)
 PUERTO = 4444         
 
-# Colores ANSI
+
 RED, GREEN, YELLOW, BLUE, CYAN, WHITE, RESET = '\033[31m', '\033[32m', '\033[33m', '\033[34m', '\033[36m', '\033[37m', '\033[0m'
 
 BANNER_SLIDE = rf"""
